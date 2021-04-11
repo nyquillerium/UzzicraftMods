@@ -3,4 +3,4 @@
 
 Repo for storing Uzzicraft mods.
 
-Powered by AWS and Buddy
+Powered by AWS, Buddy, and Dick Flattener
